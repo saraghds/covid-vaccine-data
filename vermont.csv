@@ -1,6 +1,4 @@
 date,location,total_vaccinations,total_distributed,people_vaccinated,people_fully_vaccinated_per_hundred,total_vaccinations_per_hundred,people_fully_vaccinated,people_vaccinated_per_hundred,distributed_per_hundred,daily_vaccinations_raw,daily_vaccinations,daily_vaccinations_per_million,share_doses_used
-2021-01-12,Vermont,25757.0,64925.0,,,4.13,,,10.4,,,,0.397
-2021-01-13,Vermont,29571.0,69800.0,,,4.74,,,11.19,3814.0,3814.0,6112.0,0.424
 2021-01-14,Vermont,29571.0,69800.0,26603.0,,4.74,,4.26,11.19,0.0,1907.0,3056.0,0.424
 2021-01-15,Vermont,32470.0,74000.0,28355.0,0.66,5.2,4100.0,4.54,11.86,2899.0,2238.0,3587.0,0.439
 2021-01-19,Vermont,40581.0,74000.0,34427.0,0.98,6.5,6114.0,5.52,11.86,2027.75,2118.0,3394.0,0.548
